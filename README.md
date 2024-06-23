@@ -15,5 +15,4 @@
   <br>For this after each inner loop round check whether the Array is sorted or not.After inner loop make boolean flag=true,and Travel in the loop and check if(arr[i]>arr[i+1]).If it's there make flag=false and break the checking loop.<br>
   <br>After this check if(flag==true) if it's there break the round loop,cuz now Array is sorted.<br>
 </p>
-<h2>Code Snippet</h2>
-![Bubble Sorting_2](https://github.com/GovindSingh-95/Bubble-Sorting/assets/156602160/1e6844b6-eebd-4f14-9d4f-8ea6c7abec59)
+
